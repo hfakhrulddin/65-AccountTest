@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewBag.Title = "Account";
+}
+
+<h2>Account</h2>
+<div class="container center-block">
+
+    <h1><font color="gray">Account</font></h1>
+    <br />
+    <hr>
+
+    <div class="form-group">
+        <label><font color="gray">Name</font></label>
+        <input type="text" class="form-control input-lg text-center" ng-model="logData.username" />
+    </div>
+    <br />
+    <div class="form-group">
+        <label><font color="gray">Type</font></label>
+        <input type="text" class="form-control input-lg text-center" ng-model="logData.type" />
+    </div>
+
+    <div class="form-group">
+        <label><font color="gray">Active</font></label>
+        <input type="radio" color="gray" ng-model="logData.Active">
+        <label><font color="gray">Yes</font></label>
+        <input type="radio" color="gray" ng-model="logData.Active">
+        <label><font color="gray">No</font></label>
+    </div>
+
+    <button class="btn btn-default btn-lg center-block" ng-click="OK()">Submit</button>
+</div>
+

@@ -1,0 +1,55 @@
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\obj\Debug\Account Test.Tests.csprojResolveAssemblyReference.cache
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\roslyn\csc.exe
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\roslyn\vbc.exe
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\Account Test.Tests.dll.config
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\Account Test.Tests.dll
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\Account Test.Tests.pdb
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\Account Test.dll
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\System.Web.Razor.dll
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\Owin.dll
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\EntityFramework.dll
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\Account Test.pdb
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\System.Web.Razor.xml
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\EntityFramework.xml
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\obj\Debug\Account Test.Tests.dll
+C:\Div\Origin\AccountTest\Account Test\Account Test.Tests\obj\Debug\Account Test.Tests.pdb
